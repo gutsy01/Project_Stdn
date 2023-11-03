@@ -1,0 +1,11 @@
+*file excel 'train' dan 'test' merupakan data yang sudah dibagi dari hasil data cleaning dan pembagian dataset
+
+*file notebook tahap data cleaning tidak ada (terhapus)
+
+*data cleaning yang dilakukan adalah menghilangkan data yang memiliki nilai 0 pada fitur fitur Glucose, BloodPressure, SkinThickness, Insulin, dan BMI
+
+*setelah dilakukan data cleaning, data yang tersisa adalah 392 sampel
+
+*pembagian dataset dilakukan dengan rasio 80:20 dan data yang dipilih diacak dari data asli (diabetes.csv) setelah melalui data cleaning
+
+*file pca.py dan svm.py adalah algoritma pca dan svm manual, untuk algoritma SFS digunakan scikit learn
