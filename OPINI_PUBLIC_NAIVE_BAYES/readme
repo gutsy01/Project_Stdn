@@ -1,1 +1,9 @@
 judul : Analysis Opini Public Terhadap Penggunaan Kendaraan Listrik Menggunakan Algoritma Naive Bayes Clasifier (NBC) dengan Ekstraksi fitur TF-IDF
+
+. Tugas Akhir : 
+   - Judul  : Analysis Opini Publik Terhadap Kendaraan Listrik Menggunakan Algoritma Naive Bayes Classifier (NBC) Dengan Ekstraksi   Fitur TF-IDF
+   - Tujuan : Tujuan penelitian ini adalah untuk menilai persepsi masyarakat, mengevaluasi performa model klasifikasi analisis yang dibangun menggunakan algoritma Naïve Bayes Classifier dengan ekstraksi fitur Term Frequency-Inverse Document Frequency (Tf-Idf), serta membangun aplikasi analisis opini berbasis web untuk klasifikasi, visualisasi, dan evaluasi data teks komentar
+
+2. Dataset : 
+   - Dataset yang digunakan adalah data komentar tentang kendaraan listrik pada media sosial Twitter dan Youtube
+   - Link Dataset: https://github.com/ryasakbar060/Dataset-Komentar-Kendaraan-Listrik
